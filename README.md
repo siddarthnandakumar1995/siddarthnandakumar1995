@@ -8,7 +8,7 @@ Most recently: product marketing at CipherSonic Labs (privacy-first AI infrastru
 
 This is where I'm dabbling with — and sharing — marketing skills and prompts for today's AI-native landscape: dashboards, content systems, experiment teardowns, and side projects.
 
-Outside of work: I play keys and sing, produce music, and teach music to kids on the side - played a good number of live shows over the years too. Also into prog metal, cars, and cats.
+Outside of work: I play keys and sing, produce music, and teach music to kids on the side - played a good number of live shows over the years too. Also into prog metal and cars (psst. i have four cats back home).
 
 ---
 
@@ -16,7 +16,6 @@ Outside of work: I play keys and sing, produce music, and teach music to kids on
 
 - 🛠️ Building [**marketing-skills**](https://github.com/siddarthnandakumar1995/marketing-skills) — a public library of Claude skills, prompts, and workflows for marketers
 - 📣 Open to product marketing roles in enterprise IT / B2B SaaS
-- 🎹 Producing music and playing keys on the side
 
 ---
 
@@ -24,5 +23,4 @@ Outside of work: I play keys and sing, produce music, and teach music to kids on
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/siddarthnandakumar/)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://substack.com/@siddarthnandakumar)
 
-<img src="./profile-photo.jpg" width="300" />
-<img src="./cats.jpg" width="300" />
+![cats](./cats-cover.png)
