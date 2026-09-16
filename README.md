@@ -8,7 +8,7 @@ Most recently: product marketing at CipherSonic Labs (privacy-first AI infrastru
 
 This is where I'm dabbling with — and sharing — marketing skills and prompts for today's AI-native landscape: dashboards, content systems, experiment teardowns, and side projects.
 
-Outside of work: I play keys and sing, produce music, and teach music to kids on the side - played a good number of live shows over the years too. Also into prog metal and cars (psst. i have four cats back home).
+Outside of work: I play keys and sing, produce music, and teach music to kids on the side - played a good number of live shows over the years too. Also into prog metal and cars (psst. i have 4 cats back home).
 
 ---
 
