@@ -23,4 +23,4 @@ Outside of work: I play keys and sing, produce music, and teach music to kids on
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/siddarthnandakumar/)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://substack.com/@siddarthnandakumar)
 
-![cats](./cats-cover.png)
+![cats](./cats-cover.jpg)
